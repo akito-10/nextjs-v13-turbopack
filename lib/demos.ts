@@ -31,9 +31,8 @@ export const demos: Item[] = [
       },
       {
         name: 'Root Layouts',
-        slug: 'root-layouts',
+        slug: '',
         description: 'Create top-level layouts that apply to all routes',
-        isDisabled: true,
       },
     ],
   },
